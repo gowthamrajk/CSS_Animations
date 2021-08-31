@@ -16,6 +16,7 @@ This is a simple webpage which demonstrates about the Falling Leaves animation
 
 # UI SneakPeak ❤️ 
 
+![image](https://user-images.githubusercontent.com/43011442/131467165-6ec69171-748a-4215-a22c-40d74004cbb6.png)
 
 <br><br>
 
