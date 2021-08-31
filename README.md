@@ -10,6 +10,6 @@
 
 ## 1) Falling Leaves animation
 
-**Visit @ https://github.com/gowthamrajk/HTML_Tricks/tree/main/Auto_Resize_Text_Area**
+**Visit @ https://github.com/gowthamrajk/CSS_Animations/tree/main/Falling_Leaves_Animation**
 
 <br>
