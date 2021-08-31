@@ -48,4 +48,21 @@ This is a simple webpage which demonstrates about the Falling Leaves animation
 [<img align="left" alt="GowthamRaj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="GowthamRaj " width="22px" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />][hackerrank]
 [<img align="left" alt="GowthamRaj  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<im
+[<img align="left" alt="GowthamRaj  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GowthamRaj  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![](https://img.shields.io/badge/9698382306-25D366?style=social&logo=whatsapp&logoColor=green)]()
+
+<br>
+
+## Copyright-and-license 📌
+
+Code and documentation Copyright 2021 : **Gowthamraj K**
+
+[website1]: https://sites.google.com/view/code-jamm
+[hackerrank]: https://www.hackerrank.com/gowthamraj692
+[website]: https://github.com/gowthamrajk
+[twitter]: https://twitter.com/Gowtham29341737
+[twitter]: https://twitter.com/Gowtham29341737
+[youtube]: https://www.youtube.com/channel/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?view_as=subscriber
+[instagram]: https://instagram.com/gow_t_h_a_m_r_a_j
+[linkedin]: https://www.linkedin.com/in/gowtham-kittusamy-54b835174/
